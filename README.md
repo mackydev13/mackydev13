@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+
+
 **mackydev13/mackydev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Achievements
+
+- 🌟 Published 5 open-source projects
+- 🏆 Winner of Hackathon 2024
+- 📜 Certified in React Development
+- 🔥 Contributed to [Some Popular Repository](https://github.com/example)
+
