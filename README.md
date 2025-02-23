@@ -13,8 +13,9 @@ I’m a passionate developer working on various projects, including **React, Rea
 
 ## 📊 GitHub Stats
 
+![mackydev13's Stats](https://github-readme-stats.vercel.app/api?username=mackydev13&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![mackydev13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mackydev13&theme=dracula&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![mackydev13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mackydev13&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 🚀 **Current Projects**
 - 🔥 Building a **Rescuer Management System** for emergency response
