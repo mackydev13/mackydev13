@@ -1,11 +1,11 @@
 ## 👋 Hi! I'm MACKY
 
 <p align="left"> 
-  <a href="https://github.com/yutkat/yutkat/"><img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" /></a>
-  <a href="https://github.com/yutkat"><img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" /></a>
-  <a href="https://github.com/yutkat"><img height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" /></a>
-  <a href="https://gitstar-ranking.com/yutkat"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" /></a>
-  <a href="https://user-badge.committers.top/japan/yutkat"><img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" /></a>
+  <a href="https://github.com/mackydev13/mackydev13/"><img src="https://komarev.com/ghpvc/?username=mackydev13" alt="mackydev13" /></a>
+  <a href="https://github.com/mackydev13"><img height="20" src="https://img.shields.io/github/followers/mackydev13?label=follow&logo=github&style=flat" /></a>
+  <a href="https://github.com/mackydev13"><img height="20" src="https://img.shields.io/github/stars/mackydev13?logo=github&style=flat" /></a>
+  <a href="https://gitstar-ranking.com/mackydev13"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%mackydev13%2Fshields" /></a>
+  <a href="https://user-badge.committers.top/japan/mackydev13"><img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" /></a>
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyutkat%2Fyutkat%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
 </p>
 
@@ -31,7 +31,7 @@
   <a href="https://dev.to/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutkat" height="30" width="30" /></a>
   <a href="https://www.quora.com/profile/Yutkat" target="blank"><img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" /></a>
-  <a href="https://ossinsight.io/analyze/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="yutkat" height="30" width="30" /></a>
+  <a href="https://ossinsight.io/analyze/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="Macky" height="30" width="30" /></a>
 </p>
 
 ### Recent Activities
