@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm MACKY!
 
 🌟 **About Me**  
 I’m a passionate developer working on various projects, including **React, React Native, Laravel, Docker, Firebase**, and more!
