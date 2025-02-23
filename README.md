@@ -13,7 +13,7 @@ I’m a passionate developer working on various projects, including **React, Rea
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![mackydev13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mackydev13&theme=dracula&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
 
 🚀 **Current Projects**
