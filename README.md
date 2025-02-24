@@ -24,9 +24,14 @@ I’m a passionate developer working on various projects, including **React, Rea
 - 📱 Developing **React Native apps** with Firebase integration
 - 🛠️ Creating **Dockerized Laravel apps** with Nginx
 
+🔥 Editors: 
+Chrome                   32 hrs 45 mins      ███████████████████████░░   90.74 % 
+Zsh                      2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Neovim                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+
 📬 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonde-mac-arthur-30ba08184/)  
+[![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/arthur.gonde)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/mackydev13)  
 
 ✨ **Keep Coding & Keep Building!** 🚀
