@@ -25,8 +25,11 @@ I’m a passionate developer working on various projects, including **React, Rea
 - 🛠️ Creating **Dockerized Laravel apps** with Nginx
 
 🔥 Editors: 
+
 Chrome                   32 hrs 45 mins      ███████████████████████░░   90.74 % 
+
 Zsh                      2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+
 Neovim                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 📬 **Connect with Me**  
