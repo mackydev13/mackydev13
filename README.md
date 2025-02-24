@@ -32,6 +32,10 @@ Zsh                      2 hrs               █░░░░░░░░░░�
 
 Neovim                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
+
+💻 Operating System: 
+Linux                    36 hrs 6 mins       █████████████████████████   100.00 % 
+
 📬 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonde-mac-arthur-30ba08184/)  
 [![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/arthur.gonde)  
