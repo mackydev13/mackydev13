@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-label="Developer terminal">
+  <defs>
+    <linearGradient id="topEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      .in { opacity: 0; animation: lineIn 0.45s ease forwards; }
+      .blink { animation: blink 1s steps(1) infinite; }
+      @keyframes lineIn { to { opacity: 1; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="300" rx="12" fill="#0E1626" stroke="#16304A" stroke-width="1.5"/>
+  <rect x="0" y="44" width="1000" height="256" fill="#0A0F1C"/>
+  <line x1="0" y1="44.5" x2="1000" y2="44.5" stroke="#14283C" stroke-width="1"/>
+  <rect x="1" y="1" width="998" height="2.5" rx="1.25" fill="url(#topEdge)"/>
+
+  <circle cx="24" cy="23" r="6" fill="#FF5F56" opacity="0.9"/>
+  <circle cx="42" cy="23" r="6" fill="#FFBD2E" opacity="0.9"/>
+  <circle cx="60" cy="23" r="6" fill="#27C93F" opacity="0.9"/>
+  <text class="mono" x="500" y="29" text-anchor="middle" font-size="13" letter-spacing="3" fill="#55657B">MACKY — zsh — ~/dev</text>
+  <text class="mono" x="975" y="29" text-anchor="end" font-size="12" letter-spacing="2" fill="#334155">SSH://GITHUB</text>
+
+  <g class="mono">
+    <g class="in" style="animation-delay:0.15s">
+      <text x="38" y="66" font-size="15" fill="#22D3EE" font-weight="700">$ </text>
+      <text x="60" y="66" font-size="15" fill="#CBD5E1">whoami</text>
+    </g>
+    <g class="in" style="animation-delay:0.3s">
+      <text x="38" y="90" font-size="15" fill="#8FA0B8">mackydev · full-stack developer · davao city</text>
+    </g>
+    <g class="in" style="animation-delay:0.45s">
+      <text x="38" y="114" font-size="15" fill="#22D3EE" font-weight="700">$ </text>
+      <text x="60" y="114" font-size="15" fill="#CBD5E1">stack --list</text>
+    </g>
+    <g class="in" style="animation-delay:0.6s">
+      <text x="38" y="138" font-size="15" fill="#8FA0B8">react · vue · laravel · docker · firebase</text>
+    </g>
+    <g class="in" style="animation-delay:0.75s">
+      <text x="38" y="162" font-size="15" fill="#22D3EE" font-weight="700">$ </text>
+      <text x="60" y="162" font-size="15" fill="#CBD5E1">deploy --target</text>
+    </g>
+    <g class="in" style="animation-delay:0.9s">
+      <text x="38" y="186" font-size="15" fill="#8FA0B8">nginx → docker → mariadb</text>
+    </g>
+    <g class="in" style="animation-delay:1.05s">
+      <text x="38" y="210" font-size="15" fill="#22D3EE" font-weight="700">$ </text>
+      <text x="60" y="210" font-size="15" fill="#CBD5E1">status</text>
+    </g>
+    <g class="in" style="animation-delay:1.2s">
+      <text x="38" y="234" font-size="15" fill="#8FA0B8">ONLINE · BUILDING</text>
+      <text class="blink" x="197" y="234" font-size="15" fill="#22D3EE">▉</text>
+    </g>
+  </g>
+</svg>
