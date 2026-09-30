@@ -71,7 +71,20 @@ I keep the stack pragmatic, the architecture clean, and I'm always learning the 
 
 ---
 
-<!-- SYS.06 · DEBUG TERMINAL -->
+<!-- SYS.06 · ACHIEVEMENTS -->
+## ▸ ACHIEVEMENTS
+
+<p align="center">
+  <a href="https://github.com/mackydev13?achievement=pull-shark&tab=achievements">
+    <img src="https://img.shields.io/badge/PULL%20SHARK-Bronze-1B2C46?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=22D3EE" alt="Pull Shark — Bronze"/>
+  </a>
+</p>
+
+<p align="center"><sub>official GitHub badge · earned for merged pull requests · view all on the achievements tab</sub></p>
+
+---
+
+<!-- SYS.07 · DEBUG TERMINAL -->
 ## ▸ DEBUG TERMINAL
 
 <p align="center">
@@ -80,7 +93,7 @@ I keep the stack pragmatic, the architecture clean, and I'm always learning the 
 
 ---
 
-<!-- SYS.07 · CONNECT -->
+<!-- SYS.08 · CONNECT -->
 ## ▸ CONNECT
 
 <p align="center">
